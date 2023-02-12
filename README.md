@@ -1,2 +1,3 @@
 # Finanzas-Computacionales
-Entrega de Trabajos - Finanzas Computacionales - Grupo 105i - Universidad Externado de Colombia - Roberto José Ávila Moreno
+Entrega de Trabajos - Universidad Externado de Colombia - Finanzas Computacionales - Grupo 105i
+Roberto José Ávila Moreno
